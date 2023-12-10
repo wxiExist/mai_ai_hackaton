@@ -8,3 +8,6 @@
 ### all scripts have an intuitive console interface
 
 -------------------------------------
+
+
+#### you need both programs to be in the same folder with h5 files and folders with the case
